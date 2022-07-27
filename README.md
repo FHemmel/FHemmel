@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/FHemmel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FHemme&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FHemme&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FHemmel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FHemmel&layout=compact&langs_count=7&theme=tokyonight"/>
  </div>
   
 <div style="display: inline_block"><br>
@@ -25,5 +25,5 @@
   <a href="https://www.linkedin.com/in/fernandohemmel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-  ![Snake animation](https://github.com/FHemme/FHemme/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/FHemmel/FHemmel/blob/output/github-contribution-grid-snake.svg)
   
